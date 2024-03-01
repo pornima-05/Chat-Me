@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tag_selected_product_name" type="id"/>
+    <item name="tag_selected_product_image" type="id"/>
+    <item name="tag_selected_product_price" type="id"/>
+</resources>
